@@ -1,3 +1,4 @@
 # Blog-App
 
-Blog App with Django Under Development
+Blog App with Django 
+## Under Development
